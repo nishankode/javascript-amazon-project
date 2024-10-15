@@ -1,3 +1,5 @@
+import { cart } from '../data/cart.js';
+
 // Code for populating the page with products
 let productsHTML = '';
 products.forEach((product) => {
